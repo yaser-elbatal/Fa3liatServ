@@ -1,0 +1,56 @@
+const FeatherIcons = {
+  home: "home",
+  menu: "menu",
+  radioOff: "circle",
+  radioOn: "check-circle",
+  translate: "globe",
+  mobile: "smartphone",
+  lock: "lock",
+  unLock: "unlock",
+  eyeOn: "eye",
+  eyeOff: "eye-off",
+  user: "user",
+  mail: "mail",
+  backL: "chevron-left",
+  backR: "chevron-right",
+  arrowUp: "chevron-up",
+  arrowDown: "chevron-down",
+  cart: "shopping-cart",
+  categories: "figma",
+  plus: "plus",
+  plusCircle: "plus-circle",
+  minus: "minus",
+  minusCircle: "minus-circle",
+  delete: "trash-2",
+  unCheck: "square",
+  check: "check-square",
+  calendar: "calendar",
+  price: "dollar-sign",
+  close: "x",
+  map: "map-pin",
+  grid: "grid",
+  list: "list",
+  logOut: "log-out",
+  filter: "filter",
+  true: "check",
+  credit: "credit-card",
+  clock: "clock",
+  call: "phone-call",
+  archive: "archive",
+  edit: "edit-2",
+  clipboard: "clipboard",
+  award: "award",
+  alert: "alert-circle"
+};
+
+const Fontisto = {
+  cart: "shopping-basket",
+  cartRemove: "shopping-basket-remove",
+  cartAdd: "shopping-basket-add",
+  heartSolid: "heart",
+  heartEmpty: "heart-alt",
+  // Social Media
+  whatsApp: "whatsapp"
+};
+
+export { FeatherIcons, Fontisto };

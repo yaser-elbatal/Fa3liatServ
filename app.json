@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Fa3liat",
+    "slug": "Fa3liat",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/background.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.awamer.Fa3liat",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.awamer.Fa3liat",
+      "versionCode": 1
+    },
+    "description": ""
+  }
+}
